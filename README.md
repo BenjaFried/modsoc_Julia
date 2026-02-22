@@ -18,3 +18,8 @@ Pkg.add([
 ```
 
 For questions, comments, or suggestions, please contact `bfried@ucmerced.edu` with subject line `modsoc_Julia`.
+
+
+
+[![DOI](https://zenodo.org/badge/1154952499.svg)](https://doi.org/10.5281/zenodo.18730422)
+
