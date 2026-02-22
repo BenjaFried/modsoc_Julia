@@ -17,4 +17,4 @@ Pkg.add([
 ])
 ```
 
-For questions, comments, or suggestions, please contact `bfried@ucmerced.edu` with subject-line `modsoc_Julia`.
+For questions, comments, or suggestions, please contact `bfried@ucmerced.edu` with subject line `modsoc_Julia`.
