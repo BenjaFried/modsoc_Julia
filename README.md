@@ -1,5 +1,5 @@
 # modsoc_Julia
-This repository contains Julia Jupyter notebooks that reimplement the NetLogo models from *Modeling Social Behavior: Mathematical and Computational Models of Social Dynamics and Cultural Evolution* by Paul E. Smaldino. The original NetLogo code is available at: https://github.com/psmaldino/modsoc
+This repository contains [Julia Jupyter notebooks](https://github.com/JuliaLang/IJulia.jl) that reimplement the NetLogo models from *Modeling Social Behavior: Mathematical and Computational Models of Social Dynamics and Cultural Evolution* by Paul E. Smaldino. The original NetLogo code is available at: https://github.com/psmaldino/modsoc
 
 Notebooks are organized by chapter. Files with the _GUI tag provide interactive visualizations akin to NetLogo; files without _GUI focus on parameter sweeps and reproducing plots from the book. The models are implemented primarily with Agents.jl: https://juliadynamics.github.io/Agents.jl/stable/
 
