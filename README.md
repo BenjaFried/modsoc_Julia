@@ -20,6 +20,6 @@ Pkg.add([
 For questions, comments, or suggestions, please contact `bfried@ucmerced.edu` with subject line `modsoc_Julia`.
 
 
-
+If you'd like to cite this repository, you can do so using: 
 [![DOI](https://zenodo.org/badge/1154952499.svg)](https://doi.org/10.5281/zenodo.18730422)
 
