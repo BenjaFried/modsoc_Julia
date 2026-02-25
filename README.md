@@ -5,7 +5,7 @@ Notebooks are organized by chapter. Files with the _GUI tag provide interactive 
 
 A few notebooks include extensions beyond the book: `SIR.ipynb` adds additional plotting/analysis, `SIMPLE.ipynb` includes a cluster-size analysis, and `P_BC_NBC_GUI.ipynb` uses a custom GUI configuration. In Chapters 6 and 7, the code also includes a switch to toggle synchronous vs asynchronous interactions.
 
-Some notebooks also consolidate multiple NetLogo model variants into a single file, for example, SI_SIS_SIR_GUI.ipynb bundles the SI/SIS/SIR models, and P_BC_NBC.ipynb combines the P (positive interactions), BC (bounded confidence), and NBC (negative interactions with bounded confidence) variants.
+Some notebooks also consolidate multiple NetLogo model variants into a single file, for example, `SI_SIS_SIR_GUI.ipynb` bundles the SI/SIS/SIR models, and `P_BC_NBC.ipynb` combines the P (positive interactions), BC (bounded confidence), and NBC (negative interactions with bounded confidence) variants.
 
 Install packages used across notebooks (thank you to the developers for these superb packages):
 ```julia
