@@ -19,7 +19,7 @@ Pkg.add([
 
 For questions, comments, or suggestions, please contact `bfried@ucmerced.edu` with subject line `modsoc_Julia`.
 
-These notebooks are licensed under the MIT License - see the LICENSE file for details.
+These notebooks are licensed under the MIT [License](https://github.com/BenjaFried/modsoc_Julia/blob/main/LICENSE).
 
 If you'd like to cite this repository, you can do so using: 
 [![DOI](https://zenodo.org/badge/1154952499.svg)](https://doi.org/10.5281/zenodo.18730422)
