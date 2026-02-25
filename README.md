@@ -7,7 +7,7 @@ A few notebooks include extensions beyond the book: `SIR.ipynb` adds additional 
 
 Some notebooks also consolidate multiple NetLogo model variants into a single file, for example, SI_SIS_SIR_GUI.ipynb bundles the SI/SIS/SIR models, and P_BC_NBC.ipynb combines the P (positive interactions), BC (bounded confidence), and NBC (negative interactions with bounded confidence) variants.
 
-Install packages used across notebooks:
+Install packages used across notebooks (thank you to the developers for these superb packages):
 ```julia
 using Pkg
 Pkg.add([
@@ -15,7 +15,7 @@ Pkg.add([
   "StaticArrays","Colors","ColorSchemes","LaTeXStrings","Measures",
   "GLMakie","GraphRecipes","Observables","OrderedCollections"
 ])
-```
+``` 
 
 For questions, comments, or suggestions, please contact `bfried@ucmerced.edu` with subject line `modsoc_Julia`.
 
